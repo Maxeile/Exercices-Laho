@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\bin\Debug\net9.0\Exercice7.exe
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\bin\Debug\net9.0\Exercice7.deps.json
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\bin\Debug\net9.0\Exercice7.runtimeconfig.json
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\bin\Debug\net9.0\Exercice7.dll
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\bin\Debug\net9.0\Exercice7.pdb
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.dll
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\refint\Exercice7.dll
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.pdb
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\Exercice7.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Exercice\Exercice7\Exercice7\obj\Debug\net9.0\ref\Exercice7.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\classes\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\classes\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\interfaces\\imotorise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\interfaces\\imotorise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\classes\\v\u00E9hicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\classes\\v\u00E9hicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice5\\exercice5\\classes\\hydravion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BB6A47-66D1-4087-9B22-9BCC366108AE}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\classes\\hydravion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMotorise.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Interfaces\\IMotorise.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Interfaces\\IMotorise.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Interfaces\\IMotorise.cs",
+              "RelativeToolTip": "Exercice5\\Interfaces\\IMotorise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:58:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Program.cs",
+              "RelativeToolTip": "Exercice5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:24:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\Voiture.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Classes\\Voiture.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\Voiture.cs",
+              "RelativeToolTip": "Exercice5\\Classes\\Voiture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:23:57.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoitureHybride.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\VoitureHybride.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Classes\\VoitureHybride.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\VoitureHybride.cs",
+              "RelativeToolTip": "Exercice5\\Classes\\VoitureHybride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:13:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hydravion.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\Hydravion.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Classes\\Hydravion.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\Hydravion.cs",
+              "RelativeToolTip": "Exercice5\\Classes\\Hydravion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:57:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "V\u00E9hicule.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\V\u00E9hicule.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Classes\\V\u00E9hicule.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice5\\Exercice5\\Classes\\V\u00E9hicule.cs",
+              "RelativeToolTip": "Exercice5\\Classes\\V\u00E9hicule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:51:13.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
