@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\bin\Debug\net9.0\Exercice_Exception.exe
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\bin\Debug\net9.0\Exercice_Exception.deps.json
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\bin\Debug\net9.0\Exercice_Exception.runtimeconfig.json
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\bin\Debug\net9.0\Exercice_Exception.dll
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\bin\Debug\net9.0\Exercice_Exception.pdb
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.dll
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\refint\Exercice_Exception.dll
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.pdb
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\Exercice_Exception.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Exercice\Exercice_Exception\Exercice_Exception\obj\Debug\net9.0\ref\Exercice_Exception.dll

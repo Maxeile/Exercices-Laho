@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice_exception\\exercice_exception\\exceptions\\invalidarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|solutionrelative:exercice_exception\\exceptions\\invalidarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice_exception\\exercice_exception\\exceptions\\calculateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|solutionrelative:exercice_exception\\exceptions\\calculateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|c:\\users\\userprf\\desktop\\exercice\\exercice_exception\\exercice_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0B76A-85D0-4F7E-A24B-39F968676D86}|Exercice_Exception\\Exercice_Exception.csproj|solutionrelative:exercice_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvalidArray.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Exceptions\\InvalidArray.cs",
+              "RelativeDocumentMoniker": "Exercice_Exception\\Exceptions\\InvalidArray.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Exceptions\\InvalidArray.cs",
+              "RelativeToolTip": "Exercice_Exception\\Exceptions\\InvalidArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:31:59.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculateur.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Exceptions\\Calculateur.cs",
+              "RelativeDocumentMoniker": "Exercice_Exception\\Exceptions\\Calculateur.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Exceptions\\Calculateur.cs",
+              "RelativeToolTip": "Exercice_Exception\\Exceptions\\Calculateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:37:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice_Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercice_Exception\\Exercice_Exception\\Program.cs",
+              "RelativeToolTip": "Exercice_Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:27:34.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
