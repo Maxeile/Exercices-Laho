@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercices_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3082640-DFDE-4CB0-9FAB-F9F110EFF918}|Exercices_Collections\\Exercices_Collections.csproj|c:\\users\\userprf\\desktop\\exercice\\exercices_collections\\exercices_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3082640-DFDE-4CB0-9FAB-F9F110EFF918}|Exercices_Collections\\Exercices_Collections.csproj|solutionrelative:exercices_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,11 +17,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice\\Exercices_Collections\\Exercices_Collections\\Program.cs",
               "RelativeDocumentMoniker": "Exercices_Collections\\Program.cs",
@@ -55,7 +55,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\MCPD\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",

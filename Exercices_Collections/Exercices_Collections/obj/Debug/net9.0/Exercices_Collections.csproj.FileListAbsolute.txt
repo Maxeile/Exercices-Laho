@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\bin\Debug\net9.0\Exercices_Collections.exe
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\bin\Debug\net9.0\Exercices_Collections.deps.json
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\bin\Debug\net9.0\Exercices_Collections.runtimeconfig.json
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\bin\Debug\net9.0\Exercices_Collections.dll
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\bin\Debug\net9.0\Exercices_Collections.pdb
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.dll
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\refint\Exercices_Collections.dll
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.pdb
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\Exercices_Collections.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Exercice\Exercices_Collections\Exercices_Collections\obj\Debug\net9.0\ref\Exercices_Collections.dll
